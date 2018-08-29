@@ -1,0 +1,25 @@
+### YamlMime:LearningPath
+uid: learn.deploy-a-website-to-azure-with-managed-hosting
+title: Развертывание веб-сайта в Azure с управляемым размещением
+summary: Веб-приложения в Azure позволяют легко опубликовать веб-сайт и управлять им, не заботясь о базовых серверах, хранилище или сетевых ресурсах. Вместо этого вы можете сосредоточиться на функционале сайта, положившись на надежную платформу Azure, которая обеспечит безопасный доступ к нему.
+cardDescription: Веб-приложения в Azure позволяют легко опубликовать веб-сайт и управлять им, не заботясь о базовых серверах, хранилище или сетевых ресурсах. Вместо этого вы можете сосредоточиться на функционале сайта, положившись на надежную платформу Azure, которая обеспечит безопасный доступ к нему.
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- developer
+products:
+- Azure
+prerequisites: None
+metadata:
+  title: Развертывание веб-сайта в Azure с управляемым размещением
+  description: Веб-приложения в Azure позволяют легко опубликовать веб-сайт и управлять им, не заботясь о базовых серверах, хранилище или сетевых ресурсах. Вместо этого вы можете сосредоточиться на функционале сайта, положившись на надежную платформу Azure, которая обеспечит безопасный доступ к нему.
+  ms.openlocfilehash: a9bed41e8a9bbdfe7720c34bdaac9e5be8e136c6
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40444749"
+modules:
+- learn.sample-module-cloudshell
+achievement: learn.deploy-a-website-to-azure-with-managed-hosting.trophy

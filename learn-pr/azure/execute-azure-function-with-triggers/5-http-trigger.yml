@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: execute-azure-function-with-triggers.5-http-trigger
+title: Выполнение функции Azure с помощью HTTP-запроса
+metadata:
+  title: Выполнение функции Azure с помощью HTTP-запроса
+  description: Выполнение функции Azure с помощью HTTP-запроса
+  ms.openlocfilehash: 2795f1bb55f776ea500b53d49d68938e98a12a3a
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40446000"
+durationInMinutes: 10
+content: '[!include[](includes/5-http-trigger.md)]'

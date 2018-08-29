@@ -1,0 +1,25 @@
+### YamlMime:LearningPath
+uid: learn.architect-great-solutions-in-azure
+title: Разработка эффективных решений с помощью Azure
+summary: Узнайте, как проектировать и разрабатывать надежные, масштабируемые и производительные решения в Azure, изучив основные принципы, лежащие в основе любой эффективной архитектуры.
+cardDescription: Узнайте, как проектировать и разрабатывать надежные, масштабируемые и производительные решения в Azure, изучив основные принципы, лежащие в основе любой эффективной архитектуры.
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- solutions-architect
+products:
+- Azure
+prerequisites: None
+metadata:
+  title: Разработка эффективных решений с помощью Azure
+  description: Узнайте, как проектировать и разрабатывать надежные, масштабируемые и производительные решения в Azure, изучив основные принципы, лежащие в основе любой эффективной архитектуры.
+  ms.openlocfilehash: 5f46bd87a3da8267bc0f494720e95a2b69578da4
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40444634"
+modules:
+- learn.sample-module-cloudshell
+achievement: learn.architect-great-solutions-in-azure.trophy

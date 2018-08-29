@@ -1,0 +1,34 @@
+### YamlMime:ModuleUnit
+uid: learn.predict-costs-and-optimize-spending.2-estimate-costs-with-the-azure-pricing-calculator
+title: Оценка затрат с помощью калькулятора цен Azure
+metadata:
+  title: Оценка затрат с помощью калькулятора цен Azure
+  description: В этом блоке вы узнаете, как оценить затраты с помощью калькулятора цен Azure.
+  ms.openlocfilehash: 8667c62411c9155d1bb116dd36da0014f038e15b
+  ms.sourcegitcommit: d40bff88f60d5ddb3d875f788cafdd0c40069f23
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "42614521"
+durationInMinutes: 15
+content: >
+  [!include[](includes/2-estimate-costs-with-the-azure-pricing-calculator.md)]
+quiz:
+  title: Оценка затрат с помощью калькулятора цен Azure
+  questions:
+  - content: На какой вкладке калькулятора цен Azure будет подготовлена оценка?
+    choices:
+    - content: Оценка
+      isCorrect: false
+      incorrectExplanation: Эта вкладка содержит все сохраненные ранее расчеты.
+    - content: Продукты
+      isCorrect: true
+      correctExplanation: Эта вкладка содержит все указанные службы Azure. Здесь выполняется добавление или удаление служб для формулировки оценки.
+  - content: Вы можете предоставить общий доступ к оценке, экспортировав ее в электронную таблицу Excel или получив URL-адрес.
+    choices:
+    - content: Истина
+      isCorrect: true
+      correctExplanation: При нажатии кнопки <b>Экспорт</b> в нижней части оценки будет экспортирована электронная таблица Excel, к которой можно предоставить общий доступ. Или можно щелкнуть <b>Поделиться</b>, чтобы получить ссылку на URL-адрес и поделиться ей с коллегами.
+    - content: Ложь
+      isCorrect: false
+      incorrectExplanation: При нажатии кнопки <b>Экспорт</b> в нижней части оценки будет экспортирована электронная таблица Excel, к которой можно предоставить общий доступ. Или можно щелкнуть <b>Поделиться</b>, чтобы получить ссылку на URL-адрес и поделиться ей с коллегами.

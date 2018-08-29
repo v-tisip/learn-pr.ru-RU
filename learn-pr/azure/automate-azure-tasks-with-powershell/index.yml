@@ -1,0 +1,33 @@
+### YamlMime:Module
+uid: learn.automate-azure-tasks-with-powershell
+metadata:
+  title: Автоматизация задач Azure с помощью сценариев PowerShell
+  description: Azure PowerShell — это модуль PowerShell, содержащий командлеты для управления ресурсами Azure. Его можно установить локально на компьютере администратора и затем выполнять интерактивные команды и сценарии. Azure PowerShell пересылает команды в центры обработки данных Azure, где они выполняются в контексте вашей подписки Azure. В этом модуле показано, как установить Azure PowerShell в ОС Linux, macOS или Windows, а затем использовать его для подключения к Azure и управления ресурсами.
+  ms.openlocfilehash: b84f41bb05830a884243e11cd557e26394d0af6e
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40445774"
+title: Автоматизация задач Azure с помощью сценариев PowerShell
+summary: Установите Azure PowerShell локально и используйте его для управления ресурсами Azure.
+abstract: Azure PowerShell — это модуль PowerShell, содержащий командлеты для управления ресурсами Azure. Его можно установить локально на компьютере администратора и затем выполнять интерактивные команды и сценарии. Azure PowerShell пересылает команды в центры обработки данных Azure, где они выполняются в контексте вашей подписки Azure. В этом модуле показано, как установить Azure PowerShell в ОС Linux, macOS или Windows, а затем использовать его для подключения к Azure и управления ресурсами.
+cardDescription: Установите Azure PowerShell локально и используйте его для управления ресурсами Azure.
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- developer
+products:
+- Azure
+units:
+- learn.automate-azure-tasks-with-powershell.1-introduction
+- learn.automate-azure-tasks-with-powershell.2-decide-if-azure-powershell-is-right-for-your-tasks
+- learn.automate-azure-tasks-with-powershell.3-install-azure-powershell
+- learn.automate-azure-tasks-with-powershell.4-exercise-install-azure-powershell
+- learn.automate-azure-tasks-with-powershell.5-create-resource-interactively
+- learn.automate-azure-tasks-with-powershell.6-exercise-create-resource-interactively
+- learn.automate-azure-tasks-with-powershell.7-create-resource-using-script
+- learn.automate-azure-tasks-with-powershell.8-exercise-create-resource-using-script
+- learn.automate-azure-tasks-with-powershell.9-summary
+achievement: learn.automate-azure-tasks-with-powershell.badge

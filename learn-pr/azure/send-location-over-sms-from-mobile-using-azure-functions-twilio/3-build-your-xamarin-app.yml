@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.send-location-over-sms-from-mobile-using-azure-functions-twilio.3-build-your-xamarin-app
+title: Создание пользовательского интерфейса Xamarin.Forms и логики приложения
+metadata:
+  title: Создание пользовательского интерфейса Xamarin.Forms и логики приложения
+  description: Создайте пользовательский интерфейс Xamarin.Forms и логику приложения с помощью Model-View-ViewModel (MVVM) и привязки данных
+  ms.openlocfilehash: 4cdd2ab2b2aa2993913c01fcf7b552781efa00ac
+  ms.sourcegitcommit: d40bff88f60d5ddb3d875f788cafdd0c40069f23
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "42614243"
+durationInMinutes: 10
+content: '[!include[](includes/3-build-your-xamarin-app.md)]'

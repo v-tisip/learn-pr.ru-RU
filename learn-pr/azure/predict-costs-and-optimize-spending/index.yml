@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn.predict-costs-and-optimize-spending
+metadata:
+  title: Прогнозирование расходов и оптимизация затрат
+  description: В этом модуле рассматриваются вопросы прогнозирования, анализа и контроля затрат в Azure.
+  ms.openlocfilehash: 0f1ca5015bbe652a423df79daccf0512cb2f6977
+  ms.sourcegitcommit: d40bff88f60d5ddb3d875f788cafdd0c40069f23
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "42615512"
+title: Прогнозирование расходов и оптимизация затрат
+summary: Расходы являются одним из самых важных аспектов использования облачных ресурсов, который может оказывать значительное влияние на ваш бизнес. В Azure доступно несколько инструментов, которые могут помочь вам лучше понять расходы на облако, а придерживаясь ряда рекомендаций, вы сможете сэкономить деньги.
+abstract: >
+  * Используйте калькулятор цен Azure для оценки затрат.
+
+  * Определите средства, которые можно использовать для прогнозирования и оптимизации затрат в Azure.
+
+  * Определите рекомендации по сокращению затрат на инфраструктуру.
+
+  * Определите рекомендации для снижения расходов на лицензирование.
+cardDescription: Это описание карточки для примера модуля (будет отображаться на эмблеме с достижением).
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- solutions-architect
+- administrator
+achievement: learn.placeholder.badge
+products:
+- Azure
+units:
+- learn.predict-costs-and-optimize-spending.1-introduction
+- learn.predict-costs-and-optimize-spending.2-estimate-costs-with-the-azure-pricing-calculator
+- learn.predict-costs-and-optimize-spending.3-predict-and-optimize-with-cost-management-and-advisor
+- learn.predict-costs-and-optimize-spending.4-save-on-infrastructure-costs
+- learn.predict-costs-and-optimize-spending.5-save-on-licensing-costs
+- learn.predict-costs-and-optimize-spending.6-summary

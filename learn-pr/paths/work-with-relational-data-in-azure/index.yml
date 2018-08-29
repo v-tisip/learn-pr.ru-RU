@@ -1,0 +1,25 @@
+### YamlMime:LearningPath
+uid: learn.work-with-relational-data-in-azure
+title: Работа с реляционными данными в Azure
+summary: Azure поддерживает несколько популярных решений для организации баз данных на основе SQL, включая SQL Server, PostgreSQL и MySQL. Узнайте, как использовать эти корпоративные решения в Azure для хранения и извлечения данных приложения в облаке.
+cardDescription: Azure поддерживает несколько популярных решений для организации баз данных на основе SQL, включая SQL Server, PostgreSQL и MySQL. Узнайте, как использовать эти корпоративные решения в Azure для хранения и извлечения данных приложения в облаке.
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- intermediate
+roles:
+- developer
+products:
+- Azure
+prerequisites: None
+metadata:
+  title: Работа с реляционными данными в Azure
+  description: Azure поддерживает несколько популярных решений для организации баз данных на основе SQL, включая SQL Server, PostgreSQL и MySQL. Узнайте, как использовать эти корпоративные решения в Azure для хранения и извлечения данных приложения в облаке.
+  ms.openlocfilehash: 6141b4692e32f9a7adc606b8d5ca6ddf39900628
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40444758"
+modules:
+- learn.sample-module-cloudshell
+achievement: learn.work-with-relational-data-in-azure.trophy

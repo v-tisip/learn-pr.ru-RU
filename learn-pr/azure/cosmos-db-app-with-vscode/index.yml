@@ -1,0 +1,29 @@
+### YamlMime:Module
+uid: learn.cosmos-db-app-with-vscode
+metadata:
+  title: Создание приложения .NET Core для Azure Cosmos DB в Visual Studio Code
+  description: Узнайте, как создать приложение .NET Core для хранения и запроса данных в Azure Cosmos DB с помощью Visual Studio Code.
+  ms.openlocfilehash: 9f9c7a63501752c0b2113bcb146e4c152351c429
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40447838"
+title: Создание приложения .NET Core для Azure Cosmos DB в Visual Studio Code
+summary: Узнайте, как создать приложение базы данных для хранения и запроса данных в Azure Cosmos DB с помощью Visual Studio Code.
+abstract: В этом модуле вы узнаете, как создать приложение для хранения и запроса данных в Azure Cosmos DB. Этот модуль показывает, как с помощью встроенного терминала Visual Studio Code быстро создать приложение консоли, а затем добавить функции Azure Cosmos DB, используя расширение Azure Cosmos DB для Visual Studio Code.
+cardDescription: Узнайте, как создать приложение для хранения и запроса данных в Azure Cosmos DB с помощью Visual Studio Code.
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- developer
+products:
+- Azure
+units:
+- learn.cosmos-db-app-with-vscode.1-introduction
+- learn.cosmos-db-app-with-vscode.2-setup
+- learn.cosmos-db-app-with-vscode.3-crud-operations
+- learn.cosmos-db-app-with-vscode.4-query
+- learn.cosmos-db-app-with-vscode.5-javascript-programming
+achievement: learn.cosmos-db-app-with-vscode.badge

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: execute-azure-function-with-triggers.3-timer-trigger
+title: Выполнение функции Azure с использованием таймера
+metadata:
+  title: Выполнение функции Azure с использованием таймера
+  description: Выполнение функции Azure с использованием таймера
+  ms.openlocfilehash: 95524d7436e3b01adfcbb72dbca7a5c569994e80
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40443110"
+durationInMinutes: 10
+content: '[!include[](includes/3-timer-trigger.md)]'

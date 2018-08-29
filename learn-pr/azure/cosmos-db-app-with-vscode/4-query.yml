@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.cosmos-db-app-with-vscode.4-query
+metadata:
+  title: Выполнение запросов в Azure Cosmos DB с использованием .NET Core
+  description: Сведения о запросе данных в Azure Cosmos DB с помощью SDK для .NET Core.
+  displayType: one-column
+  ms.openlocfilehash: df16d9af01fd5f1442def898727ce97c654daab7
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40444315"
+title: Запрос с использованием SDK для .NET Core
+durationInMinutes: 10
+content: '[!include[](includes/4-query.md)]'

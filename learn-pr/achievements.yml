@@ -1,0 +1,254 @@
+### YamlMime:Achievements
+achievements:
+- uid: learn.sample-path.trophy
+  type: trophy
+  title: Награда "Пример схемы обучения"
+  summary: Награда за схему обучения "Пример схемы обучения".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.placeholder.trophy
+  type: trophy
+  iconUrl: http://via.placeholder.com/120x120
+  title: Награда "Заполнитель схемы обучения"
+  summary: Краткие сведения о награде "Пример схемы обучения"
+- uid: learn.placeholder.badge
+  type: badge
+  iconUrl: http://via.placeholder.com/120x120
+  title: Эмблема заполнителя модуля
+  summary: Краткие сведения о получении награды "Пример модуля"
+- uid: learn.sample-module-cloudshell.badge
+  type: badge
+  title: Эмблема "Пример модуля с CloudShell"
+  summary: Эмблема за прохождение модуля "Пример модуля с CloudShell".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.build-a-serverless-web-app.badge
+  type: badge
+  title: Эмблема "Создание бессерверного веб-приложения"
+  summary: Эмблема за прохождение модуля "Создание бессерверного веб-приложения".
+  iconUrl: /learn/azure/build-a-serverless-web-app/achievement/build-a-serverless-web-app.svg
+- uid: learn.cd-pipeline-github-to-azure-web-app.badge
+  type: badge
+  title: Эмблема "Создание конвейера непрерывного развертывания из GitHub для веб-приложения Azure"
+  summary: Краткое описание для эмблемы "Создание конвейера непрерывного развертывания из GitHub для веб-приложения Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.connect-app-to-azure-storage.badge
+  type: badge
+  title: Подключение приложения к службе хранилища Azure
+  summary: Подключение приложения к службе хранилища Azure
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.create-azure-storage-account.badge
+  type: badge
+  title: Эмблема "Создание учетной записи хранения Azure"
+  summary: Краткое описание для эмблемы "Создание учетной записи хранения Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.create-serverless-logic-with-functions.badge
+  type: badge
+  title: Создание бессерверной логики с помощью функций Azure
+  summary: Создание бессерверной логики с помощью функций Azure
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.host-web-app-with-azure-web-apps.badge
+  type: badge
+  title: Эмблема "Размещение веб-приложения с помощью веб-приложений Azure"
+  summary: Краткое описание для эмблемы "Размещение веб-приложения с помощью веб-приложений Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.publish-azure-web-app-with-visual-studio.badge
+  type: badge
+  title: Эмблема "Публикация веб-приложения Azure с помощью Visual Studio для Windows или Mac"
+  summary: Краткое описание для эмблемы "Публикация веб-приложения Azure с помощью Visual Studio для Windows или Mac"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.administer-containers-in-azure.trophy
+  type: trophy
+  title: Награда "Администрирование контейнеров в Azure"
+  summary: Награда за схему обучения "Администрирование контейнеров в Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.cloud-fundamentals.trophy
+  type: trophy
+  title: Награда "Основные сведения об облаке"
+  summary: Награда за схему обучения "Основные сведения об облаке".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.azure-architecture-foundations.trophy
+  type: trophy
+  title: Награда "Основы архитектуры Azure"
+  summary: Награда за схему обучения "Основы архитектуры Azure".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.architect-great-solutions-in-azure.trophy
+  type: trophy
+  title: Награда "Разработка эффективных решений в Azure"
+  summary: Награда за схему обучения "Разработка эффективных решений в Azure".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.create-backend-services-in-azure.trophy
+  type: trophy
+  title: Награда "Создание серверных служб в Azure"
+  summary: Награда за схему обучения "Создание серверных служб в Azure".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.prepare-to-use-azure.trophy
+  type: trophy
+  title: Награда "Подготовка к использованию Azure"
+  summary: Награда за схему обучения "Подготовка к использованию Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.deploy-a-website-to-azure-with-managed-hosting.trophy
+  type: trophy
+  title: Награда "Развертывание веб-сайта в Azure с управляемым размещением"
+  summary: Награда за схему обучения "Развертывание веб-сайта в Azure с управляемым размещением".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.work-with-nosql-data-in-azure-cosmos-db.trophy
+  type: trophy
+  title: Награда "Работа с данными NoSQL в Azure Cosmos DB"
+  summary: Награда за схему обучения "Работа с данными NoSQL в Azure Cosmos DB".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.work-with-relational-data-in-azure.trophy
+  type: trophy
+  title: Награда "Работа с реляционными данными в Azure"
+  summary: Награда за схему обучения "Работа с реляционными данными в Azure".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.secure-your-web-data-in-azure.trophy
+  type: trophy
+  title: Награда "Защита веб-данных в Azure"
+  summary: Награда за схему обучения "Защита веб-данных в Azure".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.store-data-in-azure.trophy
+  type: trophy
+  title: Награда "Хранение данных в Azure"
+  summary: Награда за схему обучения "Хранение данных в Azure".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.automate-azure-tasks-with-powershell.badge
+  type: badge
+  title: Эмблема "Автоматизация задач Azure с помощью сценариев PowerShell"
+  summary: Краткое описание для эмблемы "Автоматизация задач Azure с помощью сценариев PowerShell"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.create-azure-db-for-postgresql.badge
+  type: badge
+  title: Эмблема "Создание сервера базы данных PostgreSQL с помощью Azure CLI"
+  summary: Краткое описание для эмблемы "Создание сервера базы данных PostgreSQL с помощью Azure CLI"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.create-linux-vm-in-azure.badge
+  type: badge
+  title: Эмблема "Создание виртуальной машины Linux в Azure"
+  summary: Краткое описание для эмблемы "Создание виртуальной машины Linux в Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.choose-messaging-model.badge
+  type: badge
+  title: Эмблема "Выбор модели обмена сообщениями"
+  summary: Краткое описание для эмблемы "Выбор модели обмена сообщениями"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.prepare-azure-dev-environment.badge
+  type: badge
+  title: Эмблема "Подготовка среды разработки Azure"
+  summary: Краткое описание для эмблемы "Подготовка среды разработки Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.manage-resources-with-azure-portal.badge
+  type: badge
+  title: Эмблема "Управление ресурсами с помощью портала Azure"
+  summary: Краткое описание для эмблемы "Управление ресурсами с помощью портала Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.explore-azure-services-for-web-devs.badge
+  type: badge
+  title: Эмблема "Обзор служб Azure для веб-разработчиков"
+  summary: Краткое описание для эмблемы "Обзор служб Azure для веб-разработчиков"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.control-azure-services-with-cli.badge
+  type: badge
+  title: Эмблема "Управление службами Azure с помощью CLI"
+  summary: Краткое описание для эмблемы "Управление службами Azure с помощью CLI"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.azure-services-features.badge
+  type: badge
+  title: Эмблема "Общие сведения о службах и функциях Azure"
+  summary: Краткое описание для эмблемы "Общие сведения о службах и функциях Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.migrate-sql-server-relational-data.badge
+  type: badge
+  title: Миграция реляционных данных SQL Server в Azure SQL
+  summary: Миграция реляционных данных SQL Server в Azure SQL
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.communicate-between-apps-with-storage-queues.badge
+  type: badge
+  title: Эмблема "Обмен данными между приложениями с помощью очереди службы хранилища Azure"
+  summary: Краткое описание для эмблемы "Обмен данными между приложениями с помощью очереди службы хранилища Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.create-a-windows-vm-in-azure.badge
+  type: badge
+  title: Создание виртуальной машины Windows в Azure
+  summary: Создание виртуальной машины Windows в Azure
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.choose-web-hosting.badge
+  type: badge
+  title: Выбор варианта размещения веб-сайта в Azure
+  summary: Выбор варианта размещения веб-сайта в Azure
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.interactive-iot-deployments.badge
+  type: badge
+  title: Работа с интерактивными развертываниями Интернета вещей в Azure
+  summary: Работа с интерактивными развертываниями Интернета вещей в Azure
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.iot-for-ops.badge
+  type: badge
+  title: IoT Suite для операций
+  summary: IoT Suite для операций
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.web-app-with-mean-on-linux-vm.badge
+  type: badge
+  title: Создание и запуск веб-приложения на основе стека MEAN на виртуальной машине Linux в Azure
+  summary: Создание и запуск веб-приложения на основе стека MEAN на виртуальной машине Linux в Azure
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.optimize-web-app-with-redis.badge
+  type: badge
+  title: Оптимизация веб-приложений путем кэширования данных только для чтения с помощью Redis
+  summary: Оптимизация веб-приложений путем кэширования данных только для чтения с помощью Redis
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.manage-secrets-with-azure-key-vault.badge
+  type: badge
+  title: Управление секретами в веб-приложениях с помощью Azure Key Vault
+  summary: Управление секретами в веб-приложениях с помощью Azure Key Vault
+  iconUrl: /learn/modules/manage-secrets-with-azure-key-vault/achievement/manage-secrets-with-azure-key-vault.svg
+- uid: learn.secure-azure-resources-with-rbac.badge
+  type: badge
+  title: Защита ресурсов Azure с помощью управления доступом на основе ролей (RBAC)
+  summary: Защита ресурсов Azure с помощью управления доступом на основе ролей (RBAC)
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.send-location-over-sms-from-mobile-using-azure-functions-twilio.badge
+  type: badge
+  title: Эмблема "Использование функций Azure и Twilio для отправки с телефона SMS-сообщений со сведениями о местоположении"
+  summary: Эмблема за прохождение модуля "Использование функций Azure и Twilio для отправки с телефона SMS-сообщений со сведениями о местоположении"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.manage-vms-with-azure-cli-data.badge
+  type: badge
+  title: Управление виртуальными машинами с помощью Azure CLI
+  summary: Управление виртуальными машинами с помощью Azure CLI
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.deploy-a-website-to-azure-with-vm-hosting.trophy
+  type: trophy
+  title: Награда "Развертывание веб-сайта в Azure с размещением виртуальной машины"
+  summary: Награда за схему обучения "Развертывание веб-сайта в Azure с размещением виртуальной машины".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.store-app-data-with-azure-blob-storage.badge
+  type: badge
+  title: Хранение данных веб-приложения с помощью хранилища BLOB-объектов Azure
+  summary: Хранение данных веб-приложения с помощью хранилища BLOB-объектов Azure
+  iconUrl: /learn/modules/store-app-data-with-azure-blob-storage/achievement/store-app-data-with-azure-blob-storage.svg
+- uid: learn.enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.badge
+  type: badge
+  title: Включение надежного обмена сообщениями для приложений по обработке больших данных с помощью Центра событий Azure
+  summary: Модуль "Включение надежного обмена сообщениями для приложений по обработке больших данных с помощью Центра событий Azure"
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.intro-to-compute.badge
+  type: badge
+  title: Эмблема "Общие сведения о службе вычислений"
+  summary: Эмблема за прохождение модуля "Общие сведения о службе вычислений".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.intro-to-data-in-azure.badge
+  type: badge
+  title: Эмблема "Общие сведения о данных в Azure"
+  summary: Эмблема за прохождение модуля "Общие сведения о данных в Azure".
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn.cosmos-db-app-with-vscode.badge
+  type: badge
+  title: Создание приложения Azure Cosmos DB в Visual Studio Code
+  summary: Награда за прохождение модуля "Создание приложения Azure Cosmos DB в Visual Studio Code".
+  iconUrl: http://via.placeholder.com/120x120
+metadata:
+  ms.openlocfilehash: f7775c5f422578b4f98ef8b6fcf2c8213e5e9bb4
+  ms.sourcegitcommit: 0e0cc41b7669e7149541f34f3f24ba0e864ed07d
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/23/2018
+  ms.locfileid: "42702344"

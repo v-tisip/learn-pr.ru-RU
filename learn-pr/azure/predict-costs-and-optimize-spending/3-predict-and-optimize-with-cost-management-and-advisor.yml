@@ -1,0 +1,34 @@
+### YamlMime:ModuleUnit
+uid: learn.predict-costs-and-optimize-spending.3-predict-and-optimize-with-cost-management-and-advisor
+title: Прогнозирование и оптимизация затрат с помощью управления затратами Azure и помощника по Azure
+metadata:
+  title: Прогнозирование и оптимизация затрат с помощью управления затратами Azure и помощника по Azure
+  description: В этом блоке вы узнаете, как прогнозировать и оптимизировать затраты с помощью управления затратами и помощника по Azure.
+  ms.openlocfilehash: 88e546cd9c7f44f147406d8d0e4f895b491f7818
+  ms.sourcegitcommit: d40bff88f60d5ddb3d875f788cafdd0c40069f23
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "42615876"
+durationInMinutes: 10
+content: >
+  [!include[](includes/3-predict-and-optimize-with-cost-management-and-advisor.md)]
+quiz:
+  title: Прогнозирование и оптимизация затрат с помощью управления затратами Azure и помощника по Azure
+  questions:
+  - content: Помощник по Azure предоставляет рекомендации, касающиеся только затрат.
+    choices:
+    - content: Истина
+      incorrectExplanation: Помощник по Azure предоставляет рекомендации по обеспечению высокого уровня доступности, безопасности, производительности и сокращению затрат.
+      isCorrect: false
+    - content: Ложь
+      correctExplanation: Помощник по Azure предоставляет рекомендации по обеспечению высокого уровня доступности, безопасности, производительности и сокращению затрат.
+      isCorrect: true
+  - content: 'С помощью управления затратами Azure вы можете:'
+    choices:
+    - content: в исторической перспективе отслеживать службы, на которые вы тратите средства.
+      correctExplanation: Управление затратами анализирует статьи расходов и может отслеживать их соответствие заданному бюджету.
+      isCorrect: true
+    - content: просматривать оценки расходов на службы, которые могут возникнуть при внесении изменений.
+      incorrectExplanation: Чтобы увидеть оценки затрат, вы используете калькулятор цен Azure. Управление затратами анализирует статьи расходов и может отслеживать их соответствие заданному бюджету.
+      isCorrect: false
