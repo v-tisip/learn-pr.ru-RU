@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.intro-to-data-in-azure.5-knowledge-check
+metadata:
+  title: <span data-ttu-id="32fc1-101">Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="32fc1-101">Knowledge check</span></span>
+  description: <span data-ttu-id="32fc1-102">Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="32fc1-102">Knowledge check.</span></span>
+  displayType: one-column
+  ms.openlocfilehash: 8e63c9e7886d767824571f78eda178b9bdfd65f3
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40443833"
+title: <span data-ttu-id="32fc1-103">Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="32fc1-103">Knowledge check</span></span>
+durationInMinutes: 11
+content: <span data-ttu-id="32fc1-104">Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="32fc1-104">Knowledge check</span></span>
+quiz:
+  title: <span data-ttu-id="32fc1-105">Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="32fc1-105">Knowledge check</span></span>
+  questions:
+  - content: <span data-ttu-id="32fc1-106">На портале интернет-обучения необходимо вести учет физических адресов и адресов электронной почты всех пользователей.</span><span class="sxs-lookup"><span data-stu-id="32fc1-106">Your online learning portal needs to keep a record of each user's physical address and their email address.</span></span> <span data-ttu-id="32fc1-107">Какие функции Azure позволяют эффективно управлять этими сведениями?</span><span class="sxs-lookup"><span data-stu-id="32fc1-107">Which Azure features will let you manage this information well?</span></span>
+    choices:
+    - content: <span data-ttu-id="32fc1-108">Архивное хранилище Azure</span><span class="sxs-lookup"><span data-stu-id="32fc1-108">Azure Archive</span></span>
+      isCorrect: false
+      incorrectExplanation: <span data-ttu-id="32fc1-109">Архивное хранилище Azure идеально подходит для хранения старых версий данных, которые можно извлекать для аудита или других нечастых действий.</span><span class="sxs-lookup"><span data-stu-id="32fc1-109">Azure Archive is ideal to store older versions of your data so that you can retrieve it as and when required for auditing or other infrequent activities.</span></span>
+    - content: <span data-ttu-id="32fc1-110">Azure SQL</span><span class="sxs-lookup"><span data-stu-id="32fc1-110">Azure SQL</span></span>
+      isCorrect: true
+      correctExplanation: <span data-ttu-id="32fc1-111">Верно!</span><span class="sxs-lookup"><span data-stu-id="32fc1-111">Correct!</span></span> <span data-ttu-id="32fc1-112">SQL Azure позволяет хранить реляционные данные и быстро извлекать их с помощью эффективных запросов.</span><span class="sxs-lookup"><span data-stu-id="32fc1-112">Azure SQL helps store relational data and retrieves the data quickly with powerful queries.</span></span>
+    - content: <span data-ttu-id="32fc1-113">Файлы Azure</span><span class="sxs-lookup"><span data-stu-id="32fc1-113">Azure Files</span></span>
+      isCorrect: false
+      incorrectExplanation: <span data-ttu-id="32fc1-114">Служба файлов Azure предоставляет общие папки в облаке.</span><span class="sxs-lookup"><span data-stu-id="32fc1-114">Azure Files is used for file shares in the cloud.</span></span> <span data-ttu-id="32fc1-115">Их можно одновременно подключить к облачным или локальным развертываниям Windows, Linux и macOS.</span><span class="sxs-lookup"><span data-stu-id="32fc1-115">It can be mounted concurrently by cloud or on-premises deployments of Windows, Linux, and macOS.</span></span>
+  - content: <span data-ttu-id="32fc1-116">Файлы моделирования, используемые на портале обучения продажам, могут увеличиваться до больших размеров.</span><span class="sxs-lookup"><span data-stu-id="32fc1-116">The simulation files used by the sales learning portals can grow to significantly large file size.</span></span> <span data-ttu-id="32fc1-117">Как такие файлы поддерживаются в Azure?</span><span class="sxs-lookup"><span data-stu-id="32fc1-117">How will Azure support these files?</span></span>
+    choices:
+    - content: <span data-ttu-id="32fc1-118">Хранилище BLOB-объектов Azure поддерживает файлы размером до 8 ТБ.</span><span class="sxs-lookup"><span data-stu-id="32fc1-118">Azure Blob storage can support files up to 8TB in size</span></span>
+      isCorrect: true
+      correctExplanation: <span data-ttu-id="32fc1-119">Верно!</span><span class="sxs-lookup"><span data-stu-id="32fc1-119">Correct!</span></span> <span data-ttu-id="32fc1-120">Хранилище BLOB-объектов предоставляет возможность хранения и потоковой передачи больших звуковых и видеофайлов непосредственно в браузер из любой точки мира.</span><span class="sxs-lookup"><span data-stu-id="32fc1-120">Azure Blob storage provides the ability to store and stream large video or audio files directly to the browser from anywhere in the world.</span></span>
+    - content: <span data-ttu-id="32fc1-121">Служба файлов Azure поддерживает хранение и потоковую передачу больших файлов.</span><span class="sxs-lookup"><span data-stu-id="32fc1-121">Azure Files can support storing and streaming large files</span></span>
+      isCorrect: false
+      incorrectExplanation: <span data-ttu-id="32fc1-122">Служба файлов Azure предоставляет общие папки в облаке.</span><span class="sxs-lookup"><span data-stu-id="32fc1-122">Azure Files is used for file shares in the cloud.</span></span> <span data-ttu-id="32fc1-123">Их можно одновременно подключить к облачным или локальным развертываниям Windows, Linux и macOS.</span><span class="sxs-lookup"><span data-stu-id="32fc1-123">It can be mounted concurrently by cloud or on-premises deployments of Windows, Linux, and macOS.</span></span>
+    - content: <span data-ttu-id="32fc1-124">Служба файлов Azure не поддерживает хранение и потоковую передачу больших файлов.</span><span class="sxs-lookup"><span data-stu-id="32fc1-124">Azure does not support storing and streaming large files</span></span>
+      isCorrect: false
+      incorrectExplanation: <span data-ttu-id="32fc1-125">Azure предоставляет возможность хранения и потоковой передачи больших звуковых и видеофайлов непосредственно в браузер из любой точки мира.</span><span class="sxs-lookup"><span data-stu-id="32fc1-125">Azure does have the ability to store and stream large video and audio files directly to the browser from anywhere in the world.</span></span>
+  - content: <span data-ttu-id="32fc1-126">Как в Azure обеспечивается устойчивость и надежность данных?</span><span class="sxs-lookup"><span data-stu-id="32fc1-126">How does Azure support durability and reliability of data?</span></span>
+    choices:
+    - content: <span data-ttu-id="32fc1-127">С помощью возможностей репликации Azure.</span><span class="sxs-lookup"><span data-stu-id="32fc1-127">Through Azure replication capabilities.</span></span>
+      isCorrect: true
+      correctExplanation: <span data-ttu-id="32fc1-128">Верно!</span><span class="sxs-lookup"><span data-stu-id="32fc1-128">Correct!</span></span> <span data-ttu-id="32fc1-129">Azure предоставляет возможности репликации для защиты данных от стихийных бедствий и поддерживает шифрование для защиты данных от атак злоумышленников.</span><span class="sxs-lookup"><span data-stu-id="32fc1-129">Azure provides replication capabilities to protect the data against natural disasters and supports encryption to protect the data against malicious attacks.</span></span>
+    - content: <span data-ttu-id="32fc1-130">Для шифрования и расшифровки данных требуется дополнительная поддержка уровня "Премиум". Надежность обеспечивается средствами резервного копирования сторонних производителей.</span><span class="sxs-lookup"><span data-stu-id="32fc1-130">You need additional premium support to encrypt and decrypt your data and reliability is supported by third-party backup features</span></span>
+      isCorrect: false
+      incorrectExplanation: <span data-ttu-id="32fc1-131">Дополнительная поддержка не требуется. В Azure есть возможности защиты данных от непредвиденных рисков и угроз.</span><span class="sxs-lookup"><span data-stu-id="32fc1-131">You don't need any additional support; Azure has the capabilities to protect your data against any unforeseen risks and threats.</span></span>
+    - content: <span data-ttu-id="32fc1-132">В Azure нет встроенных функций шифрования и обеспечения избыточности.</span><span class="sxs-lookup"><span data-stu-id="32fc1-132">Azure does not have in-built redundancy and encryption features.</span></span>
+      isCorrect: false
+      incorrectExplanation: <span data-ttu-id="32fc1-133">В Azure есть встроенные возможности защиты данных от рисков и угроз.</span><span class="sxs-lookup"><span data-stu-id="32fc1-133">Azure comes with in-built capabilities to protect your data against risks and threats.</span></span>

@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn.predict-costs-and-optimize-spending.4-save-on-infrastructure-costs
+title: <span data-ttu-id="6c8dc-101">Сокращение затрат на инфраструктуру</span><span class="sxs-lookup"><span data-stu-id="6c8dc-101">Save on infrastructure costs</span></span>
+metadata:
+  title: <span data-ttu-id="6c8dc-102">Сокращение затрат на инфраструктуру</span><span class="sxs-lookup"><span data-stu-id="6c8dc-102">Save on infrastructure costs</span></span>
+  description: <span data-ttu-id="6c8dc-103">В этом модуле вы узнаете, как сократить затраты на инфраструктуру</span><span class="sxs-lookup"><span data-stu-id="6c8dc-103">In this unit, we'll discuss how to save on infrastructure costs</span></span>
+  ms.openlocfilehash: ea6ad618f98c79c33bf6c0c04b2cd71fdb00fa21
+  ms.sourcegitcommit: d40bff88f60d5ddb3d875f788cafdd0c40069f23
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "42614827"
+durationInMinutes: 10
+content: >
+  [!include[](includes/4-save-on-infrastructure-costs.md)]
+quiz:
+  title: <span data-ttu-id="6c8dc-104">Сокращение затрат на инфраструктуру</span><span class="sxs-lookup"><span data-stu-id="6c8dc-104">Save on infrastructure costs</span></span>
+  questions:
+  - content: <span data-ttu-id="6c8dc-105">Что из этого <b>не</b> является экономичным решением?</span><span class="sxs-lookup"><span data-stu-id="6c8dc-105">Which one of these is <b>not</b> a cost-saving solution?</span></span>
+    choices:
+    - content: <span data-ttu-id="6c8dc-106">Отмена выделения виртуальных машин в нерабочее время.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-106">Deallocate virtual machines in off hours.</span></span>
+      incorrectExplanation: <span data-ttu-id="6c8dc-107">Использование зарезервированных экземпляров виртуальных машин Azure, отмена выделения виртуальных машин в нерабочее время, выбор правильного размера для недостаточно загруженных виртуальных машин, удаление неиспользуемых виртуальных машин и переход на PaaS или SaaS — все это примеры экономичных решений.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-107">Using Azure Reserved Virtual Machine Instances, deallocating virtual machines in off hours, right-sizing underutilized virtual machines, deleting unused virtual machines, and migrating to PaaS or SaaS are all examples of cost-saving solutions.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="6c8dc-108">Использование зарезервированных экземпляров виртуальных машин Azure.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-108">Use Azure Reserved Virtual Machine Instances.</span></span>
+      incorrectExplanation: <span data-ttu-id="6c8dc-109">Использование зарезервированных экземпляров виртуальных машин Azure, отмена выделения виртуальных машин в нерабочее время, выбор правильного размера для недостаточно загруженных виртуальных машин, удаление неиспользуемых виртуальных машин и переход на PaaS или SaaS — все это примеры экономичных решений.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-109">Using Azure Reserved Virtual Machine Instances, deallocating virtual machines in off hours, right-sizing underutilized virtual machines, deleting unused virtual machines, and migrating to PaaS or SaaS are all examples of cost-saving solutions.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="6c8dc-110">Балансировка нагрузки на виртуальные машины для входящих сообщений.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-110">Load balance your virtual machines for incoming messages.</span></span>
+      correctExplanation: <span data-ttu-id="6c8dc-111">Балансировка нагрузки используется для оптимизации производительности.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-111">Load balancing is used for performance optimization.</span></span> <span data-ttu-id="6c8dc-112">Использование зарезервированных экземпляров виртуальных машин Azure, отмена выделения виртуальных машин в нерабочее время, выбор правильного размера для недостаточно загруженных виртуальных машин, удаление неиспользуемых виртуальных машин и переход на PaaS или SaaS — все это примеры экономичных решений.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-112">Using Azure Reserved Virtual Machine Instances, deallocating virtual machines in off hours, right-sizing underutilized virtual machines, deleting unused virtual machines, and migrating to PaaS or SaaS are all examples of cost-saving solutions.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="6c8dc-113">Оценка правильного размера для недостаточно загруженных виртуальных машин.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-113">Right-size underutilized virtual machines.</span></span>
+      incorrectExplanation: <span data-ttu-id="6c8dc-114">Использование зарезервированных экземпляров виртуальных машин Azure, отмена выделения виртуальных машин в нерабочее время, выбор правильного размера для недостаточно загруженных виртуальных машин, удаление неиспользуемых виртуальных машин и переход на PaaS или SaaS — все это примеры экономичных решений.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-114">Using Azure Reserved Virtual Machine Instances, deallocating virtual machines in off hours, right-sizing underutilized virtual machines, deleting unused virtual machines, and migrating to PaaS or SaaS are all examples of cost-saving solutions.</span></span>
+      isCorrect: false
+  - content: <span data-ttu-id="6c8dc-115">Центр архитектуры Azure — это ________:</span><span class="sxs-lookup"><span data-stu-id="6c8dc-115">The Azure Architecture Center is ________:</span></span>
+    choices:
+    - content: <span data-ttu-id="6c8dc-116">Отличное место, где можно найти идеи по преобразованию вашего приложения, а также советы и рекомендации по различным архитектурам и службам Azure.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-116">A great place to get ideas for transforming your application, as well as best practices across a wide array of architectures and Azure services.</span></span>
+      correctExplanation: <span data-ttu-id="6c8dc-117">В центре архитектуры Azure предоставляются советы о способах усовершенствования приложения и экономии денег.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-117">The Azure Architecture Center will provide suggestions about ways to improve your app and save money.</span></span>
+      isCorrect: true
+    - content: <span data-ttu-id="6c8dc-118">Здание в университете Майкрософт в Сиэтле, где можно поговорить об инфраструктуре.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-118">A building on the Microsoft Seattle campus where you can talk about infrastructure.</span></span>
+      incorrectExplanation: <span data-ttu-id="6c8dc-119">Центр архитектуры Azure — это программное обеспечение, встроенное в Azure, которое предоставляет рекомендации по улучшению приложения.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-119">The Azure Architecture Center is a software product built into Azure that provides suggestions to improve your app.</span></span>
+      isCorrect: false
+    - content: <span data-ttu-id="6c8dc-120">Облачный музей Фрэнка Ллойда Райта.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-120">A cloud-based museum to Frank Lloyd Wright.</span></span>
+      incorrectExplanation: <span data-ttu-id="6c8dc-121">Центр архитектуры Azure — это программное обеспечение, встроенное в Azure, которое предоставляет рекомендации по улучшению приложения.</span><span class="sxs-lookup"><span data-stu-id="6c8dc-121">The Azure Architecture Center is a software product built into Azure that provides suggestions to improve your app.</span></span>
+      isCorrect: false

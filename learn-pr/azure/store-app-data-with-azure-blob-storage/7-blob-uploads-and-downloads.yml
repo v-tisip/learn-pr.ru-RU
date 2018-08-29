@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.store-app-data-with-azure-blob-storage.7-blob-uploads-and-downloads
+title: <span data-ttu-id="c25f4-101">Отправка и скачивание BLOB-объектов</span><span class="sxs-lookup"><span data-stu-id="c25f4-101">Blob uploads and downloads</span></span>
+metadata:
+  title: <span data-ttu-id="c25f4-102">Отправка и скачивание BLOB-объектов</span><span class="sxs-lookup"><span data-stu-id="c25f4-102">Blob uploads and downloads</span></span>
+  description: <span data-ttu-id="c25f4-103">Отправка и скачивание BLOB-объектов</span><span class="sxs-lookup"><span data-stu-id="c25f4-103">Blob uploads and downloads</span></span>
+  ms.openlocfilehash: 914d5f50a31372b12439153eedaf244faa7cf8bf
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40445046"
+durationInMinutes: 10
+interactive: bash-editor
+content: '[!include[](includes/7-blob-uploads-and-downloads.md)]'

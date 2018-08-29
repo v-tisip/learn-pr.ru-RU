@@ -1,0 +1,25 @@
+### YamlMime:LearningPath
+uid: learn.administer-containers-in-azure
+title: Администрирование контейнеров в Azure
+summary: Экземпляры контейнеров Azure — самый быстрый и простой способ запуска контейнеров в Azure. Эта схема обучения поможет вам узнать, как создавать контейнеры и управлять ими и как добиваться гибкого масштабирования для Kubernetes с помощью ACI.
+cardDescription: Экземпляры контейнеров Azure — самый быстрый и простой способ запуска контейнеров в Azure. Эта схема обучения поможет вам узнать, как создавать контейнеры и управлять ими и как добиваться гибкого масштабирования для Kubernetes с помощью ACI.
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- developer
+products:
+- Azure
+prerequisites: None
+metadata:
+  title: Администрирование контейнеров в Azure
+  description: Экземпляры контейнеров Azure — самый быстрый и простой способ запуска контейнеров в Azure. Эта схема обучения поможет вам узнать, как создавать контейнеры и управлять ими и как добиваться гибкого масштабирования для Kubernetes с помощью ACI.
+  ms.openlocfilehash: 753fe61e57393a51f6a7e0031ce251390c6ceef7
+  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/22/2018
+  ms.locfileid: "40446661"
+modules:
+- learn.sample-module-cloudshell
+achievement: learn.administer-containers-in-azure.trophy
