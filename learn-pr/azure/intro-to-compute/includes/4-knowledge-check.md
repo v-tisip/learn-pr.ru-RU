@@ -1,1 +1,0 @@
-<span data-ttu-id="f828b-101">Чтобы помочь вам вспомнить то, что вы узнали, прочтите два сценария с участием команды астрономов и ответьте на вопросы.</span><span class="sxs-lookup"><span data-stu-id="f828b-101">To help you remember what you've learned, read the two scenarios involving the astronomy team and answer the associated questions.</span></span>
