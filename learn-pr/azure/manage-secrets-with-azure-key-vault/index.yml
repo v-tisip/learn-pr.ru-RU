@@ -3,7 +3,7 @@ uid: learn.manage-secrets-with-azure-key-vault
 title: Управление секретами в веб-приложениях с помощью Azure Key Vault
 summary: Для выполнения стоящих перед приложением задач ему требуются пароли к службам, строки подключения и другие секретные данные конфигурации. Хранение и обработка секретных данных сопряжены с риском. При выполнении каждой операции есть вероятность утечки. Azure Key Vault в сочетании с функцией "Управляемое удостоверение службы" Службы приложений Azure позволяет веб-приложению Azure легко и безопасно получать доступ к секретным данным конфигурации, устраняя необходимость хранения секретов в вашей системе управления версиями или конфигурации.
 cardDescription: Надежно храните секретные данные конфигурации в Azure Key Vault и безопасно получайте к ним доступ из веб-приложения Azure с помощью Управляемого удостоверения службы.
-iconUrl: /learn/modules/manage-secrets-with-azure-key-vault/achievement/manage-secrets-with-azure-key-vault.svg
+iconUrl: /learn/achievements/manage-secrets-with-azure-key-vault.svg
 achievement: learn.manage-secrets-with-azure-key-vault.badge
 levels:
 - beginner
@@ -14,12 +14,12 @@ products:
 metadata:
   title: Управление секретами в веб-приложениях с помощью Azure Key Vault
   description: В этом модуле вы научитесь создавать хранилище Key Vault и сохранять в нем секреты. Вы узнаете, как настроить веб-приложение для использования Управляемого удостоверения службы, чтобы обеспечить безопасный доступ к хранилищу без дополнительной конфигурации. Наконец, вы реализуете веб-приложение ASP.NET Core, извлекающее секреты из хранилища.
-  ms.openlocfilehash: ba109c56ec8d43e40ac534c1b28317542dd5e938
-  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.openlocfilehash: 0780a6a23836c53ea0f01379ce712c7916075b6d
+  ms.sourcegitcommit: d51dceaa3772e8083b3f0b6460f8a616b3139d25
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/22/2018
-  ms.locfileid: "40445017"
+  ms.lasthandoff: 08/27/2018
+  ms.locfileid: "43053955"
 abstract: >
   * Создайте хранилище Azure Key Vault и используйте его для хранения секретных данных конфигурации.
 
