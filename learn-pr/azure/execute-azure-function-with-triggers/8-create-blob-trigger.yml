@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: execute-azure-function-with-triggers.8-create-blob-trigger
+title: Создание триггера больших двоичных объектов
+metadata:
+  title: Создание триггера больших двоичных объектов
+  description: Создание триггера больших двоичных объектов для выполнения функции Azure при создании большого двоичного объекта
+  ms.openlocfilehash: 7500142df11a44009a55116a83a244e6fba715fd
+  ms.sourcegitcommit: 5b967802ae01d5e5985a3e6bcbdba1163ec2f6c9
+  ms.translationtype: HT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 08/27/2018
+  ms.locfileid: "42987085"
+durationInMinutes: 15
+content: '[!include[](includes/8-create-blob-trigger.md)]'
