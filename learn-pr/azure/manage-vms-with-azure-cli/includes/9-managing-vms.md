@@ -11,7 +11,7 @@ az vm stop -n SampleVM -g ExerciseResources
 Чтобы проверить, остановлена ли виртуальная машина, можно попытаться проверить связь с общедоступным IP-адресом с помощью `ssh` или команды `vm get-instance-view`. Эта команда возвращает те же основные данные, что и `vm show`, но также предоставляет сведения о самом экземпляре. Чтобы узнать текущее состояние выполнения виртуальной машины, попробуйте ввести следующую команду в Azure Cloud Shell:
 
 ```azurecli
-az vm get-instance-view -n SampleVM -g ExerciseResources --query "instanceView.statuses[?starts_with(code, 'PowerState/') == `true`].displayStatus" -o tsv
+az vm get-instance-view -n SampleVM -g ExerciseResources --query "instanceView.statuses[?starts_with(code, 'PowerState/')].displayStatus" -o tsv
 ```
 
 Она должна вернуть результат `VM stopped`.
