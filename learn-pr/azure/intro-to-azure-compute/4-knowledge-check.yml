@@ -1,40 +1,40 @@
 ### YamlMime:ModuleUnit
 uid: learn.intro-to-compute.4-knowledge-check
-title: <span data-ttu-id="8c194-101">Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="8c194-101">Knowledge check</span></span>
+title: <span data-ttu-id="db313-101">Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="db313-101">Knowledge check</span></span>
 metadata:
-  title: <span data-ttu-id="8c194-102">Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="8c194-102">Knowledge check</span></span>
-  description: <span data-ttu-id="8c194-103">Проверка знаний по модулю "Общие сведения о службе вычислений Azure".</span><span class="sxs-lookup"><span data-stu-id="8c194-103">Knowledge check for the 'Introduction to Azure compute' module.</span></span>
-  ms.openlocfilehash: d7c3f166bab42dfd3ab34e11ce5f399e0375e6f7
-  ms.sourcegitcommit: 0e0cc41b7669e7149541f34f3f24ba0e864ed07d
+  title: <span data-ttu-id="db313-102">Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="db313-102">Knowledge check</span></span>
+  description: <span data-ttu-id="db313-103">Проверка знаний по модулю "Общие сведения о службе вычислений Azure".</span><span class="sxs-lookup"><span data-stu-id="db313-103">Knowledge check for the 'Introduction to Azure compute' module.</span></span>
+  ms.openlocfilehash: 45f6d679f668ab9a585aca93395796d49fe5a69e
+  ms.sourcegitcommit: bcd9fd78122da4fc1545c7923a5fc0cd0a8abe96
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/23/2018
-  ms.locfileid: "42702657"
-durationInMinutes: 7
+  ms.lasthandoff: 08/29/2018
+  ms.locfileid: "43152185"
+durationInMinutes: 2
 content: >
   [!include[](includes/4-knowledge-check.md)]
 quiz:
-  title: <span data-ttu-id="8c194-104">Общие сведения о службе вычислений Azure. Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="8c194-104">Introduction to Azure compute knowledge check</span></span>
+  title: <span data-ttu-id="db313-104">Общие сведения о службе вычислений Azure. Проверка знаний</span><span class="sxs-lookup"><span data-stu-id="db313-104">Introduction to Azure compute knowledge check</span></span>
   questions:
-  - content: <span data-ttu-id="8c194-105">Представьте, что участники вашей небольшой команды являются первоклассными астрономами и программистами. Однако они имеют минимальное представление об администрировании серверов и веб-сайтов.</span><span class="sxs-lookup"><span data-stu-id="8c194-105">Imagine that your astronomy team is small and that, while the members of your team are top notch astronomers and computer programmers, they have only a rudimentary understanding of server and web administration.</span></span> <span data-ttu-id="8c194-106">Какой из следующих вариантов вы выберете?</span><span class="sxs-lookup"><span data-stu-id="8c194-106">Which of the following options should you choose?</span></span>
+  - content: <span data-ttu-id="db313-105">Представьте, что участники вашей небольшой команды являются первоклассными астрономами и программистами. Однако они имеют минимальное представление об администрировании серверов и веб-сайтов.</span><span class="sxs-lookup"><span data-stu-id="db313-105">Imagine that your astronomy team is small and that, while the members of your team are top notch astronomers and computer programmers, they have only a rudimentary understanding of server and web administration.</span></span> <span data-ttu-id="db313-106">Какой из следующих вариантов вы выберете?</span><span class="sxs-lookup"><span data-stu-id="db313-106">Which of the following options should you choose?</span></span>
     choices:
-    - content: <span data-ttu-id="8c194-107">Служба Azure Kubernetes (AKS)</span><span class="sxs-lookup"><span data-stu-id="8c194-107">Azure Kubernetes Service (AKS)</span></span>
+    - content: <span data-ttu-id="db313-107">Служба Azure Kubernetes (AKS)</span><span class="sxs-lookup"><span data-stu-id="db313-107">Azure Kubernetes Service (AKS)</span></span>
       isCorrect: false
-      incorrectExplanation: <span data-ttu-id="8c194-108">Для работы с Kubernetes требуются углубленные знания в области оркестрации контейнеров.</span><span class="sxs-lookup"><span data-stu-id="8c194-108">Kubernetes requires advanced knowledge about container orchestration.</span></span>
-    - content: <span data-ttu-id="8c194-109">Service Fabric</span><span class="sxs-lookup"><span data-stu-id="8c194-109">Service Fabric</span></span>
+      incorrectExplanation: <span data-ttu-id="db313-108">Для работы с Kubernetes требуются углубленные знания в области оркестрации контейнеров.</span><span class="sxs-lookup"><span data-stu-id="db313-108">Kubernetes requires advanced knowledge about container orchestration.</span></span>
+    - content: <span data-ttu-id="db313-109">Service Fabric</span><span class="sxs-lookup"><span data-stu-id="db313-109">Service Fabric</span></span>
       isCorrect: false
-      incorrectExplanation: <span data-ttu-id="8c194-110">Работа астрономов не требует широкого или глобального распространения.</span><span class="sxs-lookup"><span data-stu-id="8c194-110">The work of the astronomers does not need to be widely or globally distributed.</span></span>
-    - content: <span data-ttu-id="8c194-111">Служба приложений</span><span class="sxs-lookup"><span data-stu-id="8c194-111">App Service</span></span>
+      incorrectExplanation: <span data-ttu-id="db313-110">Работа астрономов не требует широкого или глобального распространения.</span><span class="sxs-lookup"><span data-stu-id="db313-110">The work of the astronomers does not need to be widely or globally distributed.</span></span>
+    - content: <span data-ttu-id="db313-111">Служба приложений</span><span class="sxs-lookup"><span data-stu-id="db313-111">App Service</span></span>
       isCorrect: true
-      correctExplanation: <span data-ttu-id="8c194-112">Благодаря полному управлению и масштабируемости имеющихся приложений команда может сосредоточиться на написании специализированного программного обеспечения.</span><span class="sxs-lookup"><span data-stu-id="8c194-112">Because it is fully managed and scales their applications, the team can focus on writing their specialized software.</span></span>
-  - content: <span data-ttu-id="8c194-113">Представьте, что вашей команде астрономов необходимо выполнить определенные астрономические вычисления, обработка которых занимает часы или даже дни.</span><span class="sxs-lookup"><span data-stu-id="8c194-113">Imagine that your astronomy team has come up against certain astronomical calculations that are taking hours and even days to complete.</span></span> <span data-ttu-id="8c194-114">Параллельное выполнение, по всей видимости, не очень поможет ускорить процесс.</span><span class="sxs-lookup"><span data-stu-id="8c194-114">Parallel execution does not seem to help much.</span></span> <span data-ttu-id="8c194-115">Какой из следующих вариантов вы выберете?</span><span class="sxs-lookup"><span data-stu-id="8c194-115">Which of the following options should you choose?</span></span>
+      correctExplanation: <span data-ttu-id="db313-112">Благодаря полному управлению и масштабируемости имеющихся приложений команда может сосредоточиться на написании специализированного программного обеспечения.</span><span class="sxs-lookup"><span data-stu-id="db313-112">Because it is fully managed and scales their applications, the team can focus on writing their specialized software.</span></span>
+  - content: <span data-ttu-id="db313-113">Представьте, что вашей команде астрономов необходимо выполнить определенные астрономические вычисления, обработка которых занимает часы или даже дни.</span><span class="sxs-lookup"><span data-stu-id="db313-113">Imagine that your astronomy team has come up against certain astronomical calculations that are taking hours and even days to complete.</span></span> <span data-ttu-id="db313-114">Параллельное выполнение, по всей видимости, не очень поможет ускорить процесс.</span><span class="sxs-lookup"><span data-stu-id="db313-114">Parallel execution does not seem to help much.</span></span> <span data-ttu-id="db313-115">Какой из следующих вариантов вы выберете?</span><span class="sxs-lookup"><span data-stu-id="db313-115">Which of the following options should you choose?</span></span>
     choices:
-    - content: <span data-ttu-id="8c194-116">Облачные службы</span><span class="sxs-lookup"><span data-stu-id="8c194-116">Cloud Services</span></span>
+    - content: <span data-ttu-id="db313-116">Облачные службы</span><span class="sxs-lookup"><span data-stu-id="db313-116">Cloud Services</span></span>
       isCorrect: false
-      incorrectExplanation: <span data-ttu-id="8c194-117">Не все астрономические вычисления могут выполняться параллельно, поэтому развертывание дополнительных виртуальных машин поможет лишь незначительно повысить производительность.</span><span class="sxs-lookup"><span data-stu-id="8c194-117">Not all of the astronomical calculations can be run in parallel so deploying additional VMs can only marginally improve performance.</span></span>
-    - content: <span data-ttu-id="8c194-118">Пакетная служба Azure</span><span class="sxs-lookup"><span data-stu-id="8c194-118">Azure Batch</span></span>
+      incorrectExplanation: <span data-ttu-id="db313-117">Не все астрономические вычисления могут выполняться параллельно, поэтому развертывание дополнительных виртуальных машин поможет лишь незначительно повысить производительность.</span><span class="sxs-lookup"><span data-stu-id="db313-117">Not all of the astronomical calculations can be run in parallel so deploying additional VMs can only marginally improve performance.</span></span>
+    - content: <span data-ttu-id="db313-118">Пакетная служба Azure</span><span class="sxs-lookup"><span data-stu-id="db313-118">Azure Batch</span></span>
       isCorrect: true
-      correctExplanation: <span data-ttu-id="8c194-119">Для определенных астрономических вычислений требуются возможности суперкомпьютера.</span><span class="sxs-lookup"><span data-stu-id="8c194-119">Certain astronomical calculations require supercomputer capabilities.</span></span>
-    - content: <span data-ttu-id="8c194-120">Экземпляры контейнеров</span><span class="sxs-lookup"><span data-stu-id="8c194-120">Container Instances</span></span>
+      correctExplanation: <span data-ttu-id="db313-119">Для определенных астрономических вычислений требуются возможности суперкомпьютера.</span><span class="sxs-lookup"><span data-stu-id="db313-119">Certain astronomical calculations require supercomputer capabilities.</span></span>
+    - content: <span data-ttu-id="db313-120">Экземпляры контейнеров</span><span class="sxs-lookup"><span data-stu-id="db313-120">Container Instances</span></span>
       isCorrect: false
-      incorrectExplanation: <span data-ttu-id="8c194-121">Не все астрономические вычисления могут выполняться параллельно, поэтому развертывание дополнительных контейнеров поможет лишь незначительно повысить производительность.</span><span class="sxs-lookup"><span data-stu-id="8c194-121">It may be that not all of the astronomical calculations can be run in parallel so deploying additional containers can only marginally improve performance.</span></span>
+      incorrectExplanation: <span data-ttu-id="db313-121">Не все астрономические вычисления могут выполняться параллельно, поэтому развертывание дополнительных контейнеров поможет лишь незначительно повысить производительность.</span><span class="sxs-lookup"><span data-stu-id="db313-121">It may be that not all of the astronomical calculations can be run in parallel so deploying additional containers can only marginally improve performance.</span></span>
