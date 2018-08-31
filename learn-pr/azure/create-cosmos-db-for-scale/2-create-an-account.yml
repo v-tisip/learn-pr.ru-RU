@@ -4,13 +4,12 @@ metadata:
   title: создание учетной записи Azure Cosmos DB;
   description: Сведения о создании учетной записи Azure Cosmos DB на портале Azure.
   displayType: one-column
-  interactive: azureportal
-  ms.openlocfilehash: 12c8776b76cb3733701079134ad6cee81de458d4
-  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.openlocfilehash: 68852307738c2f4a6bf35a21f5e4e9e6f24a8ee0
+  ms.sourcegitcommit: 81cb0c300be030565fb0b7c5b57413c4a2aa5410
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/22/2018
-  ms.locfileid: "40443533"
+  ms.lasthandoff: 08/28/2018
+  ms.locfileid: "43141234"
 title: Создание учетной записи Azure Cosmos DB на портале
 durationInMinutes: 10
 content: >
@@ -20,12 +19,10 @@ tasks:
   environment: azure
   hint: Учетной записи Azure Cosmos DB необходимо присвоить уникальное имя.
   azure:
-    resourceGroup: myResourceGroup
     location: eastus
 - action: exists
   environment: azure
   azure:
-    resourceGroup: groupA
     resource:
       type: Microsoft.Storage/storageAccounts
       name: docsproxyppea427

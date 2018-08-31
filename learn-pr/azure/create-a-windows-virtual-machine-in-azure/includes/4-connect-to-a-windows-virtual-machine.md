@@ -20,7 +20,7 @@ RDP-подключение позволяет реализовывать бол�
 
 Клиент RDP входит в состав Windows 10.
 
-![Клиент RDP Windows](../images/2-rdp-client.PNG)
+![Клиент RDP Windows](../media-drafts/4-rdp-client.PNG)
 
 ## <a name="what-functionality-does-an-rdp-connection-support"></a>Какие функции поддерживает подключение по протоколу RDP?
 

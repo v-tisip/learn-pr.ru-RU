@@ -3,12 +3,12 @@ uid: learn.create-cosmos-db-for-scale
 metadata:
   title: Создание масштабируемой базы данных Azure Cosmos DB
   description: Узнайте, как создать учетную запись, базу данных и коллекцию Azure Cosmos DB, которые масштабируются по мере развития приложения.
-  ms.openlocfilehash: be424d7fb9f4cac1acda8f371d1acb8b82b1f105
-  ms.sourcegitcommit: 12b4711682dac42f742a944fd9baa0e9dd09cf35
+  ms.openlocfilehash: e86c170a28ec77a018b7f86a1786ba6dd872eb7c
+  ms.sourcegitcommit: 81cb0c300be030565fb0b7c5b57413c4a2aa5410
   ms.translationtype: HT
   ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/22/2018
-  ms.locfileid: "40443699"
+  ms.lasthandoff: 08/28/2018
+  ms.locfileid: "43141846"
 title: Создание масштабируемой базы данных Azure Cosmos DB
 summary: Узнайте, как создать масштабируемые учетную запись, базу данных и коллекцию Azure Cosmos DB.
 abstract: В этом модуле вы создадите масштабируемую базу данных NoSQL с помощью Azure Cosmos DB. Вы также узнаете, как измерить и настроить пропускную способность и секционирование, которые являются ключевыми аспектами при проектировании баз данных. Ознакомившись с этими принципами заблаговременно, до того как создавать базу данных, вы сможете избежать лишних проблем в дальнейшем, когда базу данных потребуется масштабировать в соответствии с ростом потребностей.
@@ -24,9 +24,7 @@ units:
 - learn.create-cosmos-db-for-scale.1-introduction
 - learn.create-cosmos-db-for-scale.2-create-an-account
 - learn.create-cosmos-db-for-scale.3-what-is-a-request-unit
-- learn.create-cosmos-db-for-scale.4-knowledge-check-what-is-a-request-unit
-- learn.create-cosmos-db-for-scale.5-how-to-choose-a-partition-key
-- learn.create-cosmos-db-for-scale.6-knowledge-check-how-to-choose-a-partition-key
-- learn.create-cosmos-db-for-scale.7-create-a-database-and-collection
-- learn.create-cosmos-db-for-scale.8-summary-cleanup
-achievement: learn.placeholder.badge
+- learn.create-cosmos-db-for-scale.4-how-to-choose-a-partition-key
+- learn.create-cosmos-db-for-scale.5-create-a-database-and-collection
+- learn.create-cosmos-db-for-scale.6-summary-cleanup
+achievement: learn.create-cosmos-db-for-scale.badge

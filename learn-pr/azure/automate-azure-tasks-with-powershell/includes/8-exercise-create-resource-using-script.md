@@ -44,7 +44,7 @@
 7. Создайте виртуальную машину с помощью переменной `$vmName`:
 
    ```powershell
-   New-AzureRmVm -ResourceGroupName $resourceGroup -Name $vmName -Credential $adminCredential -Location "East US" 
+   New-AzureRmVm -ResourceGroupName $resourceGroup -Name $vmName -Credential $adminCredential -Location "East US" -Image UbuntuLTS
    ```
 
 8. Сохраните файл.
